@@ -1,0 +1,5 @@
+package com.sarat.curdoperations.advice;
+
+public class MyControllerAdvice {
+
+}

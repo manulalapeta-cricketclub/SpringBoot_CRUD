@@ -1,0 +1,6 @@
+package com.sarat.curdoperations.service;
+
+
+public interface EmployeeService {
+
+}

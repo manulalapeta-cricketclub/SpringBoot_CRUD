@@ -1,0 +1,5 @@
+package com.sarat.curdoperations.entity;
+
+public class Employee {
+
+}

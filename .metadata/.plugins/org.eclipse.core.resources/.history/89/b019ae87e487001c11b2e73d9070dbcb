@@ -1,0 +1,5 @@
+package com.sarat.curdoperations.customexception;
+
+public class BusinessException {
+
+}

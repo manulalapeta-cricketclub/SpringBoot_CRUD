@@ -1,0 +1,5 @@
+package com.sarat.curdoperations.repository;
+
+public interface EmployeeRepository {
+
+}

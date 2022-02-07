@@ -1,0 +1,13 @@
+package com.sarat.curdoperations;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SpringBootCurdOperationsApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
